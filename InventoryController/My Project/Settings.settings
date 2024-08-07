@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="csVTParameters" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=RPTSVR;Initial Catalog=VTParameters;Persist Security Info=True;User ID=pesreader;Password=redaersep&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=RPTSVR;Initial Catalog=VTParameters;Persist Security Info=True;User ID=pesreader;Password=redaersep</Value>
+    </Setting>
+    <Setting Name="verNum" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.1</Value>
+    </Setting>
+    <Setting Name="PublishDate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8/8/2017 - 17:01</Value>
+    </Setting>
+    <Setting Name="PublishDev" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C. Watkins</Value>
+    </Setting>
+    <Setting Name="siteInventoryStatus" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://rptsvr/Reports/Pages/Report.aspx?ItemPath=%2fProduction%2fInventory+Release+Status</Value>
+    </Setting>
+    <Setting Name="IExplorer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\Internet Explorer\iexplore.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
